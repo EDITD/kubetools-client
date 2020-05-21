@@ -1,5 +1,9 @@
 # WIP/Unreleased
 
+# v10.4.0
+- Final client/server release, providing `kubetools-server` analog to `kubetools`
+  This will simplify migration to the new, client only, kubetools v11.
+
 # v10.3.0
 - Update apiVersion to match up to date k8s API
 
